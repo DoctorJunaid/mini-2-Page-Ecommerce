@@ -1,9 +1,9 @@
 // Product data array
 const products = [
-    { id: 1, name: "Wireless Headphones", price: 500, image: "assets/images.jpeg" },
-    { id: 2, name: "Smart Watch", price: 750, image: "assets/image.jpeg" },
-    { id: 3, name: "Phone Case", price: 300, image: "assets/image1.jpeg" },
-    { id: 4, name: "Bluetooth Speaker", price: 900, image: "assets/images.jpg" }
+    { id: 1, name: "IPhone Pro max", price: 5000, image: "assets/images.jpeg" },
+    { id: 2, name: "A cheap laptop", price: 750, image: "assets/image.jpeg" },
+    { id: 3, name: "Sasta Phone", price: 300, image: "assets/image1.jpeg" },
+    { id: 4, name: "Expensive Laptop", price: 9000, image: "assets/images.jpg" }
 ];
 
 // Shipping fee and tax constants
