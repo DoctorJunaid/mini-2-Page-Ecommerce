@@ -8,7 +8,7 @@ const products = [
 
 // Shipping fee and tax constants
 const SHIPPING_FEE = 100;
-const GST_RATE = 0.35; // 45% GST
+const GST_RATE = 0.45; // 45% GST
 
 // Get cart from localStorage or initialize empty array
 function getCart() {
